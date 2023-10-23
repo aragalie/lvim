@@ -89,6 +89,7 @@ Excon
 Exfiltrate
 Facebook
 Falco
+Fargate
 Fastzip
 Figma
 Filebeat
@@ -157,6 +158,7 @@ Kargadan
 Karma
 Kerberos
 Keycloak
+Keylog
 Keymap
 Kibana
 Kinesis
@@ -194,7 +196,10 @@ Matomo
 Mattermost
 Memorystore
 Merkle
+Metasploit
+Meterpreter
 Microsoft
+Mimikatz
 MinIO
 Minikube
 ModSecurity
@@ -210,6 +215,7 @@ Nginx
 Nokogiri
 Nurtch
 OAuth
+OPSEC
 Octokit
 Okta
 OmniAuth
@@ -412,6 +418,7 @@ compilable
 composable
 config
 configs
+crackable
 cron
 cronjob
 cronjobs

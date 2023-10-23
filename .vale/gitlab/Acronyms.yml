@@ -18,7 +18,9 @@ exceptions:
   - ACG
   - ACL
   - ACK
+  - ADFS
   - AJAX
+  - AMSI
   - ANSI
   - API
   - APT
@@ -32,12 +34,14 @@ exceptions:
   - AWS
   - BAR
   - BASLR
+  - BEV
   - BGP
   - BSD
   - BYOD
   - CAS
   - CASMM
   - CAM
+  - CCSS
   - CDN
   - CET
   - CFG
@@ -51,6 +55,7 @@ exceptions:
   - CONOP
   - CORE
   - CORS
+  - CPA
   - CPU
   - CRIME
   - CRLF
@@ -127,13 +132,16 @@ exceptions:
   - IBM
   - ICMP
   - ICO
+  - ICS
   - IDA
   - IDE
   - IDOR
+  - IDS
   - IID
   - IMAP
   - IOPS
   - IPFS
+  - IPS
   - IRC
   - IRQL
   - ISAC
@@ -146,6 +154,7 @@ exceptions:
   - JVM
   - JWT
   - KASLR
+  - KDC
   - KMCI
   - KVM
   - LAN
@@ -160,6 +169,7 @@ exceptions:
   - MAC
   - MBR
   - MDL
+  - MEV
   - MFA
   - MIME
   - MIT
@@ -170,10 +180,12 @@ exceptions:
   - NDA
   - NFS
   - NFT
+  - NGFW
   - NGINX
   - NIST
   - NOTE
   - NPM
+  - NTLM
   - NTP
   - NVRAM
   - ONLY
@@ -183,6 +195,7 @@ exceptions:
   - OTP
   - OTR
   - OWASP
+  - PAC
   - PAT
   - PCI
   - PCI-DSS
@@ -225,11 +238,14 @@ exceptions:
   - RVA
   - RVM
   - SAAS
+  - SAM
   - SAML
   - SANS
   - SAST
   - SATA
+  - SBOM
   - SCA
+  - SCADA
   - SCIM
   - SCORE
   - SCP
@@ -262,6 +278,7 @@ exceptions:
   - SPDX
   - SPF
   - SPICE
+  - SPN
   - SQL
   - SSD
   - SSG
@@ -270,6 +287,7 @@ exceptions:
   - SSO
   - SSRF
   - SSTI
+  - SUID
   - SVG
   - SVN
   - SYN
@@ -278,6 +296,7 @@ exceptions:
   - TCC
   - TCP
   - TEE
+  - TGT
   - TIFF
   - TIP
   - TLD
@@ -293,17 +312,22 @@ exceptions:
   - URL
   - USB
   - UTC
+  - UTM
   - UTF
   - UUID
   - VBS
   - VCS
+  - VHD
   - VLAN
   - VNC
   - VPC
   - VPN
+  - VSS
   - WAF
   - WHQL
   - WIP
+  - WMIC
+  - WPAD
   - WSDL
   - WSL
   - XDR
